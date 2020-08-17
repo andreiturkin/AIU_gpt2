@@ -54,6 +54,7 @@ if __name__ == '__main__':
 
 
     # partially adopted from corpus.ipynb
+    # https://github.com/mgrankin/ru_transformers.git
     #                           Apache License
     #                       Version 2.0, January 2004
     #                    http://www.apache.org/licenses/
